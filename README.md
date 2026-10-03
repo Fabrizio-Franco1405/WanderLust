@@ -20,7 +20,7 @@
 
 ---
 
-## 📱 Capturas de pantalla
+## 🖼️ Capturas de pantalla
 
 ### 📲 Vista móvil (app nativa)
 <p align="center">
@@ -84,8 +84,10 @@ graph TD
     B -->|onCategoryPress| A
     C -->|onChangeText| A
     D -->|onFavoritePress| E[useFavorites Hook]
-    F[theme.js] -.->|Design Tokens| A
-    F -.-> B & C & D
+    F[theme.js] -.-> A
+    F -.-> B
+    F -.-> C
+    F -.-> D
 ```
 
 ---
