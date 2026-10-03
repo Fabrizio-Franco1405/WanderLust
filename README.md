@@ -1,4 +1,4 @@
-# WanderLust RN 🌍
+<h1 align="center">WanderLust 🌍</h1>
 
 > Una aplicación móvil de descubrimiento de destinos turísticos construida con React Native, Expo y TypeScript. Diseñada con arquitectura modular, componentes reutilizables y una experiencia de usuario fluida.
 
@@ -22,11 +22,15 @@
 
 ## 📱 Capturas de pantalla
 
-| Inicio | Categorías | Detalle de tarjeta |
-|:------:|:----------:|:------------------:|
-| ![Home](assets/screenshots/home.png) | ![Categories](assets/screenshots/categories.png) | ![Card](assets/screenshots/card.png) |
+### 📲 Vista móvil (app nativa)
+<p align="center">
+  <img src="assets/screenshots/cap_movil.jpg" alt="Vista móvil" width="100%" style="max-width: 360px; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); background: #f5f5f5; padding: 8px;" />
+</p>
 
-> *Agrega tus capturas reales en `assets/screenshots/`*
+### 💻 Vista web (navegador)
+<p align="center">
+  <img src="assets/screenshots/cap_web.png" alt="Vista web" width="100%" style="max-width: 900px; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.12);" />
+</p>
 
 ---
 
